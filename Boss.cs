@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using Unit.Maneuvers;
+using Unit.Enemy;
 using UnityEngine;
 
 namespace Unit
@@ -17,7 +17,7 @@ namespace Unit
                     public Avoidance avoid;
                     private bool backingToOriginalPos;
                     private Core.Enemy.Navigation navigation;
-                    public EnemyHealth health;
+                    public Health health;
                     public Unit.Enemy.Elite.Combat combat;
 
                     protected override void Awake()

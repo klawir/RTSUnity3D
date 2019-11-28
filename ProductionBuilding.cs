@@ -29,7 +29,7 @@ namespace Building
                     spawner.RenderPoint();
                     if (Input.GetMouseButtonUp(0))
                     {
-                        if (IsBuilt)
+                        if (beenBuilt)
                         {
                             MainProgress.instance.Load(progress);
                             trainingSuggestion.Load();
