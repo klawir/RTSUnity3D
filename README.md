@@ -24,8 +24,6 @@
 
 ### Assets
 
-* Save & Load
-* Inventory & equipment (UI) as basic version
 * Graphics and sounds
 * Navigation
 * Enemy AI
