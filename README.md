@@ -1,3 +1,35 @@
+# RTS (symbolic repository)
+
+## PC, made with Unity3D
+
+### My job mainly involved programming the gameplay:
+
+* Combat
+* Building
+* Training
+* Health and mana
+* Minimap
+* Hero
+  - Level & experience progression
+  - Skill
+* Interaction
+* UI
+  - Pasue menu
+  - Main menu
+
+### Design
+
+* Main map
+* Creating a character map
+
+### Assets
+
+* Save & Load
+* Inventory & equipment (UI) as basic version
+* Graphics and sounds
+* Navigation
+* Enemy AI
+
 ## Demo presentation: 
 https://youtu.be/LxBiHLtHSps
 
