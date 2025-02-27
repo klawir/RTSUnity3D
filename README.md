@@ -2,7 +2,10 @@
 
 ## PC, made with Unity3D
 
-### My job mainly involved programming the gameplay:
+<br>
+
+> [!IMPORTANT]
+> ### My job mainly involved programming the gameplay:
 
 * Combat
 * Building
@@ -22,14 +25,21 @@
 * Main map
 * Creating a character map
 
-### Assets
+<br>
+
+> [!WARNING]
+> ### Used Assets
 
 * Graphics and sounds
 * Navigation
 * Enemy AI
 
+<br>
+
 ## Demo presentation: 
 https://youtu.be/LxBiHLtHSps
+
+<br>
 
 ## Trial:
 
